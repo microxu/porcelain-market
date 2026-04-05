@@ -43,7 +43,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## delete test data
 npx tsx scripts/cleanup-test-data.ts
 
-## paypal test
-测试帐户： sb-kcbfu50284295@personal.example.com
-测试密码： 1BG#9Kq|
+
 
